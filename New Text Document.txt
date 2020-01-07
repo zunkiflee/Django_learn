@@ -1,0 +1,9 @@
+
+npm init
+npm install bootstrap jquery popper.js --save
+(venv) F:\PycharmProjects\portfolio\personal_portfolio>
+.\venv\Scripts\activate
+
+
+python manage.py runserver
+Username : adminzun adminzun
